@@ -1,6 +1,6 @@
 # Portfólio | Isaac Ikawa
 
-![Preview do Portfólio](https://raw.githubusercontent.com/isaac-ikawa/NOME_DO_REPOSITORIO/main/images/preview.png)
+![Preview do Portfólio](https://raw.githubusercontent.com/isaac-ikawa/Site-de-Portfolio-Front-end-v2.1.2/main/images/preview.png)
 
 ## 🧩 Descrição
 Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor front-end.
