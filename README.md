@@ -1,6 +1,6 @@
 # Portfólio | Isaac Ikawa
 
-![Preview do Portfólio](images/preview.png)
+![Preview do Portfólio](preview.png)
 
 ## 🧩 Descrição
 Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor front-end.
